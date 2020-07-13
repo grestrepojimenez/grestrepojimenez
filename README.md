@@ -1,11 +1,11 @@
 # Juan Restrepo @grestrepojimenez 
 
- Hola!, gracias por visitar mi perfil, soy un entusiasta del desarrollo web , me encantan los retos y ayudar a las personas por medio de mi carrera. 
+ Hola!, gracias por visitar mi perfil, soy un entusiasta del desarrollo web, me encantan los retos y ayudar a las personas por medio de mi carrera. 
 
- Actualmente trabajo con NodeJS y React en mis proyectos personales, soy profesor de el Curso Full Stack Developer en Pygmalion - Medellín, me encanta aprender constantemente y enseñar lo que aprendo.
+ Actualmente trabajo con NodeJS y React en mis proyectos personales, soy profesor del Curso Fullstack Web Developer en Pygmalion Robotics, me encanta aprender constantemente y enseñar lo que aprendo.
 
 
-## Lenguajes y Tecnologias con las que he trabajado  👨‍💻 
+## Lenguajes y Tecnologías con las que he trabajado  👨‍💻 
 
 >  Frontend
 
@@ -27,7 +27,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-blue)
   
 
-##  Escribeme 😃 
+##  Escríbeme 😃 
 
 * [Linkedin](https://www.linkedin.com/in/grestrepojimenez/)
 * [Twitter](https://twitter.com/puesjuancho)
