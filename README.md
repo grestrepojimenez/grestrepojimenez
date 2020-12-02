@@ -2,7 +2,7 @@
 
  Hola!, gracias por visitar mi perfil, soy un entusiasta del desarrollo web, me encantan los retos y ayudar a las personas por medio de mi carrera. 
 
- Actualmente trabajo con NodeJS y React en mis proyectos personales, soy profesor del Curso Fullstack Web Developer en Pygmalion Robotics, me encanta aprender constantemente y enseñar lo que aprendo.
+ Actualmente trabajo con [Alcaldía de Medellín](https://www.medellin.gov.co/) desarrollando en Laravel, NodeJS y React, tambien soy profesor del Curso Fullstack Web Developer en [Pygmalion Robotics](https://pygmalion.tech/), me encanta aprender constantemente y enseñar lo que aprendo.
 
 
 ## Lenguajes y Tecnologías con las que he trabajado  👨‍💻 
