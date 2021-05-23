@@ -10,10 +10,10 @@
 >  Frontend
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-blue) 
- ![NextJS](https://img.shields.io/badge/Jquery-gray)
+![NextJS](https://img.shields.io/badge/Jquery-gray)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 ![Material UI](https://img.shields.io/badge/ReactJS-blue) 
- ![HTML](https://img.shields.io/badge/HTML-yellow)
+![HTML](https://img.shields.io/badge/HTML-yellow)
 ![CSS](https://img.shields.io/badge/CSS-orange)
 
 > Backend
