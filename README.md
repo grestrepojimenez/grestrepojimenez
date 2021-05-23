@@ -10,7 +10,7 @@
 >  Frontend
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-blue) 
- ![Jquery](https://img.shields.io/badge/Jquery-gray)
+ ![NextJS](https://img.shields.io/badge/Jquery-gray)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
  ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![CSS](https://img.shields.io/badge/CSS-orange)
