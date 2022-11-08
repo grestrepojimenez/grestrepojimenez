@@ -1,20 +1,24 @@
 # Juan Restrepo @grestrepojimenez 
 
- Hola!, gracias por visitar mi perfil, soy un entusiasta del desarrollo web, me encantan los retos y ayudar a las personas por medio de mi carrera. 
+ Hello, thanks for visiting my profile, I am a web development enthusiast, I love challenges and helping people through my career. 
 
- Actualmente trabajo con [Alcaldía de Medellín](https://www.medellin.gov.co/)  desarrollando en Laravel, NodeJS y React, tambien soy profesor del Curso Frontend Developer en [Pygmalion Robotics](https://pygmalion.tech/), me encanta aprender constantemente y enseñar lo que aprendo.
+ Currently I work at [Globant](https://www.globant.com/) developing in NextJS, NodeJS and React, I have also been a Frontend and Backend Develop teacher at [Pygmalion Robotics](https://pygmalion.tech/), I love to learn constantly and teach what I learn.
 
  
-## Lenguajes y Tecnologías con las que he trabajado  👨‍💻 
+## Languages and Technologies I've worked with 👨💻 
+
 
 >  Frontend
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-blue) 
-![NextJS](https://img.shields.io/badge/Jquery-gray)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
-![Material UI](https://img.shields.io/badge/ReactJS-blue) 
+![NextJS](https://img.shields.io/badge/-NextJS-black)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-blue)
+![Styled Components](https://img.shields.io/badge/-StyledComponents-purple)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-gray)
+![Material UI](https://img.shields.io/badge/MaterialUI-blue) 
 ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![CSS](https://img.shields.io/badge/CSS-orange)
+
 
 > Backend 
 
@@ -25,11 +29,10 @@
 ![Laravel](https://img.shields.io/badge/Laravel-red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![Postgres](https://img.shields.io/badge/Postgress-blue)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-blue)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-green)
   
 
-##  Escríbeme 😃 
+##  Contact me  😃 
 
 * [Linkedin](https://www.linkedin.com/in/grestrepojimenez/)
-* [Twitter](https://twitter.com/puesjuancho)
 * [Email](mailto:grestrepojimenez@gmail.com)
