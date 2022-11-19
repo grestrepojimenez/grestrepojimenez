@@ -28,6 +28,7 @@
 ![PHP](https://img.shields.io/badge/PHP-purple) 
 ![Laravel](https://img.shields.io/badge/Laravel-red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![Mongoose](https://img.shields.io/badge/Mongoose-brown)
 ![Postgres](https://img.shields.io/badge/Postgress-blue)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-green)
   
