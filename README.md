@@ -12,6 +12,7 @@
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-blue) 
 ![NextJS](https://img.shields.io/badge/-NextJS-black)
+![Qwik](https://img.shields.io/badge/-Qwik-purple)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-informational)
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-purple)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-gray)
