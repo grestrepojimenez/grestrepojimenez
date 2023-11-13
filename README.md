@@ -15,7 +15,6 @@
 ![Qwik](https://img.shields.io/badge/-Qwik-purple)
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-informational)
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-purple)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-gray)
 ![Material UI](https://img.shields.io/badge/MaterialUI-blue) 
 ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![CSS](https://img.shields.io/badge/CSS-orange)
@@ -26,10 +25,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-yellow)
 ![NodeJS](https://img.shields.io/badge/NodeJS-green)
 ![Express](https://img.shields.io/badge/Express-black)
-![PHP](https://img.shields.io/badge/PHP-purple) 
-![Laravel](https://img.shields.io/badge/Laravel-red)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![Mongoose](https://img.shields.io/badge/Mongoose-brown)
 ![Postgres](https://img.shields.io/badge/Postgress-blue)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-green)
   
